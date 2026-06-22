@@ -8,9 +8,6 @@
 ### 流镜编辑
 - 描述：一个【流程脚本+可视化节点系统】的编辑器。
 - 项目链接：[流镜编辑](https://flow-mirror.qiumonster.com/)
-### 收录实验室
-- 描述：为独立开发者和开源项目提供SEO流量曝光服务，帮助优秀项目获得更多关注和用户。
-- 项目链接：[收录实验室](https://index-lab.qiumonster.com/)
 ### Somoe (SO萌网站)
 - 描述：somoe，个人内容聚集之地。
 - 项目链接：[SO萌网站](https://somoe.xyz/)
