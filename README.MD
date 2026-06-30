@@ -5,7 +5,7 @@
 ### Mineradio-tauri-vue
 - 编写轻量级客户端，实现前后端分离，和前后端一体化的两种客户端模式，附带部署web版本Mineradio服务！
 - 近期尽量将项目处理好，将gitee中的代码迁移到github中。
-- 在线体验 [Mineradio-tauri-vue](https://mr.qiumonster.com) (暂时不要登陆，web端没有设计多人模式，cookie会被覆盖)
+- 在线体验 [Mineradio-tauri-vue](https://mr.qiumonster.com) ，目前web端已设计多人登录模式，具体操作请查看[Mineradio web登录插件](https://github.com/QiuMonster/QiuMonster/edit/main/mineradio_web_extension.md)
 ## 我的项目
 ### MDesign
 - 描述：打造高性能、高颜值的现代化网页应用。极简风格，极致体验。
