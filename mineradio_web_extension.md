@@ -1,7 +1,7 @@
 # Mineradio 登录助手
 
 基于 Manifest V3 的 Chrome 浏览器扩展，帮助 Mineradio 读取 [music.163.com](https://music.163.com) 的登录 Cookie，实现一键登录。
-
+下载请点击[mineradio_web_extension v0.1.0](https://github.com/QiuMonster/QiuMonster/releases/download/v0.1.0/mineradio_web_extension.zip)，或到当前仓库的发布版本处下载。
 ## 功能
 
 - 读取网易云音乐域名下的登录 Cookie
