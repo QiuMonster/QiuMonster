@@ -2,7 +2,7 @@
 
 Mineradio Web加载动画页面，在原有基础上添加了Web文字，修改了部分动画。
 
-https://github.com/QiuMonster/QiuMonster/blob/main/1.png
+![初始化界面](https://github.com/QiuMonster/QiuMonster/blob/main/1.png)
 
 主界面显示
 
@@ -12,17 +12,17 @@ https://github.com/QiuMonster/QiuMonster/blob/main/1.png
 
 需要配合[Mineradio Web登录插件](https://github.com/QiuMonster/QiuMonster/edit/main/mineradio_web_extension.md)实现登录功能
 
-https://github.com/QiuMonster/QiuMonster/blob/main/2.png
+![登录界面](https://github.com/QiuMonster/QiuMonster/blob/main/2.png)
 
 登录成功界面
 
-https://github.com/QiuMonster/QiuMonster/blob/main/3.png
 
-
+![登录成功界面](https://github.com/QiuMonster/QiuMonster/blob/main/3.png)
 
 加载数据后的主界面
 
 https://github.com/QiuMonster/QiuMonster/blob/main/4.png
+![加载数据后的主界面](https://github.com/QiuMonster/QiuMonster/blob/main/4.png)
 
 点阵背景的音乐播放界面
 
